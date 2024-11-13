@@ -22,7 +22,7 @@
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memobabdulbasit&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=memonabdulbasit&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
