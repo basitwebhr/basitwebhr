@@ -5,7 +5,7 @@
 
 🌱 I specialize in AI Integration, Microservices Architecture, and Team Leadership
 
-👨‍💻 Leading development teams across **Pakistan, USA, and UAE**
+👨‍💻 Leading development teams
 
 ### Tech Stack:
 ```javascript
